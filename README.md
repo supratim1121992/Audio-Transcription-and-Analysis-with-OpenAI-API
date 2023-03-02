@@ -11,3 +11,5 @@ https://huggingface.co/pyannote/segmentation
 https://github.com/pyannote/pyannote-audio
 
 https://platform.openai.com/docs/api-reference?lang=python
+
+*Note:* It is highly advised to use a GPU processor for execution.
